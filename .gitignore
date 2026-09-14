@@ -1,0 +1,12 @@
+/node_modules
+/.next/
+/out/
+/build
+*.pem
+.env*
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
+# Temporary artefacts written during local smoke tests
+tmp_*
